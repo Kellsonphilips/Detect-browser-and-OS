@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    background: #ddf7d5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    font-size: 4rem;
+    line-height: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+
+span {
+    color: #4cd61e;
+    font-weight: 600;
+}
+
+.container {
+    max-width: auto;
+    max-height: auto;
+    background: #FFF;
+    border-radius: 6px;
+    padding: 17px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .3);
+}
