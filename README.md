@@ -15,4 +15,4 @@ A simple `JavaScript` project to detect `browsers` and `Operating Systems`.
 - This project's code is also available on codesandbox as you click on the test link. 
 - You can preview the code from the codesandbox as well. 
 
-Give it a star if you like the project or can add to it. for it and make your changes
+Give it a star if you like the project or can add to it. fork the repository and make your changes by keeping a copy.
